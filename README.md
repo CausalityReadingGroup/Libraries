@@ -22,3 +22,9 @@ http://www.rand.org/statistics/twang/downloads.html
 ## Tetrad
 
 http://www.phil.cmu.edu/tetrad/
+
+## Medflex
+
+Flexible Mediation Analysis Using Natural Effect Models
+
+https://cran.r-project.org/web/packages/medflex/index.html
